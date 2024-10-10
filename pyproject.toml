@@ -4,6 +4,9 @@ version = "0.1.0"
 description = ""
 authors = ["skaym00t <cerber.lv.23@gmail.com>"]
 readme = "README.md"
+packages = [
+  { include = "brain_games" },
+]
 
 [tool.poetry.dependencies]
 python = "^3.10"
