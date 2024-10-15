@@ -3,3 +3,4 @@ brain_games/scripts/__pycache__
 .venv/
 setup.cfg
 dist/
+demo.cast
