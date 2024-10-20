@@ -5,3 +5,4 @@
 ### Presenattion
 [![Install game and brain-even](https://asciinema.org/a/hz1kyfrdZ6ecGbnAbEv8ijRvZ.svg)](https://asciinema.org/a/hz1kyfrdZ6ecGbnAbEv8ijRvZ)
 [![brain-calc](https://asciinema.org/a/bCbJYxmFExBpzoSJ1cqd4ZHPZ.svg)](https://asciinema.org/a/bCbJYxmFExBpzoSJ1cqd4ZHPZ)
+[![brain-gcd](https://asciinema.org/a/3qfFnINTZ5iKKSnTQ0O0GlQkZ.svg)](https://asciinema.org/a/3qfFnINTZ5iKKSnTQ0O0GlQkZ)
