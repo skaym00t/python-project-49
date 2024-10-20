@@ -11,7 +11,7 @@ def result_game():
             correct_answer = 'yes'
         else:
             correct_answer = 'no'
-        print(f'Question:{number}')
+        print(f'Question: {number}')
         answer = prompt.string('Your answer: ')
         user_answer = answer
         if user_answer == correct_answer:
