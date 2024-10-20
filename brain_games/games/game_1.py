@@ -1,4 +1,5 @@
-def first_game():
+def result_game():
+    print('Answer "yes" if the number is even, otherwise answer "no".')
     import prompt
     import random
     lose = 0
@@ -20,4 +21,3 @@ def first_game():
             lose += 1
             break
     return [lose, correct_answer, user_answer]
-    
