@@ -4,3 +4,6 @@ brain_games/scripts/__pycache__
 setup.cfg
 dist/
 demo.cast
+brain_games/games/__pycache__
+brain_games/logic/__pycache__
+test_file.py
