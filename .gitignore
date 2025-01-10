@@ -2,7 +2,6 @@ brain_games/__pycache__
 brain_games/scripts/__pycache__
 .venv/
 setup.cfg
-dist/
 demo.cast
 brain_games/games/__pycache__
 brain_games/logic/__pycache__
